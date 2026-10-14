@@ -28,7 +28,7 @@ An interactive Power BI dashboard analysing **5.8 million U.S. domestic flights*
 U.S. DOT Bureau of Transportation Statistics – 2015 Flight Delays and Cancellations (flights, airlines, airports).
 
 ## Files
-- `us_flight_delays_2015.pbix` – the Power BI report (open with Power BI Desktop)
+- `us_flight_delays_2015.pbix` – the Power BI report (47 MB, too large for GitHub upload; available on request)
 - `clean_flights.py` – the data-cleaning script
 - `dashboard.png` – dashboard screenshot
 
